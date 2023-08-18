@@ -1,0 +1,14 @@
+release/NeuroNetwork.o
+release/aboutclass.o
+release/gamesett.o
+release/main.o
+release/networkplaying.o
+release/networktraining.o
+release/playingclass.o
+release/trainclass.o
+release/widget.o
+release/moc_aboutclass.o
+release/moc_gamesett.o
+release/moc_playingclass.o
+release/moc_trainclass.o
+release/moc_widget.o
